@@ -7,7 +7,6 @@ const nextConfig: NextConfig = {
     styledComponents: true,
   },
   experimental: {
-    appDir: true,
   },
   images: {
     domains: [],
